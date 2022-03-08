@@ -1,9 +1,16 @@
-# LoadBalancer
+## General Info
 Implementation of loadbalancer in webservers using C++
 
-To run:
-1. Clone this repository.
-2. Run: 
-3. cd LoadBalancer
-4. g++ loadbalancermain.cpp -o loadbalancermain
-5. ./loadbalancermain
+
+
+## How to Run:
+* Clone this repository using 
+```
+git clone https://github.com/vermavivek951/LoadBalancer.git
+```
+* Then Run: 
+```
+$ cd LoadBalancer
+$ g++ loadbalancermain.cpp -o loadbalancermain
+$ ./loadbalancermain
+```
